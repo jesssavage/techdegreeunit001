@@ -28,7 +28,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: #f0bdc6;
+  background: #ffffff;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -55,7 +55,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: #f0bdc6
 }
 
 header {
